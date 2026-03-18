@@ -1,0 +1,2 @@
+# mcu_homework1_rotaryencoder_with_u8g2
+arduino esp32 wokwi rotaryencoder u8g2
